@@ -1,4 +1,4 @@
-package Testing;
+package generics_library;
 
 import java.util.ArrayList;
 import java.util.Collection;

@@ -1,4 +1,4 @@
-package pack1;
+package generics_library;
 import java.util.concurrent.TimeUnit;
 
 import org.openqa.selenium.Alert;

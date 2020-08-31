@@ -1,4 +1,4 @@
-package pack1;
+package generics_library;
 
 import java.io.FileInputStream;
 import java.io.FileOutputStream;

@@ -1,4 +1,4 @@
-package com.cucumber;
+package generics_library;
 import java.io.*;
 class CheckedExceptionBaseAndChildClass {  
 	void color()

@@ -1,4 +1,4 @@
-package com.infogain.automation;
+package generics_library;
 
 import java.util.Set;
 import java.util.TreeSet;

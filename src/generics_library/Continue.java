@@ -1,4 +1,4 @@
-package com.infogain.automation;
+package generics_library;
 public class Continue {
 
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package pack1;
+package generics_library;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;

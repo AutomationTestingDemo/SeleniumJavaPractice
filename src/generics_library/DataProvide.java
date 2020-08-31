@@ -1,4 +1,4 @@
-package com.infogain.automation;
+package generics_library;
 
 import java.io.File;
 import org.apache.poi.openxml4j.opc.OPCPackage;
